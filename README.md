@@ -12,8 +12,8 @@ A simple number guessing game where the player tries to guess a randomly chosen 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/higher-lower-game.git
-   cd higher-lower-game
+   git clone https://github.com/zanemilo/Number_Guessing_Game.git
+   cd Number_Guessing_Game
 
 2. ## Run the game:
 
